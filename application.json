@@ -1,0 +1,35 @@
+{
+  "pages": [
+    {
+      "id": "首页",
+      "isDefault": true
+    },
+    {
+      "id": "图库",
+      "isDefault": false
+    },
+    {
+      "id": "探索",
+      "isDefault": false
+    },
+    {
+      "id": "我的",
+      "isDefault": false
+    }
+  ],
+  "viewMode": false,
+  "appIsExample": false,
+  "unreadCommentThreads": 0,
+  "color": "#F4FFDE",
+  "icon": "email",
+  "unpublishedAppLayout": {
+    "type": "MOBILE_FLUID"
+  },
+  "publishedAppLayout": {
+    "type": "MOBILE_FLUID"
+  },
+  "evaluationVersion": 2,
+  "applicationVersion": 2,
+  "isManualUpdate": false,
+  "deleted": false
+}
